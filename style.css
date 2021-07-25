@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+caption {
+  font-size: 30px;
+}
+table {
+  width: 75%;
+  margin: 50px auto;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+  text-align: center;
+  background-color: #f1f1c1;
+}
+th,
+td {
+  padding: 10px;
+}
+th {
+  background-color: rgb(61, 61, 61);
+  color: whitesmoke;
+}
+.time {
+  font-weight: 900;
+}
