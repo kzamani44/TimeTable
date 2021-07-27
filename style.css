@@ -33,3 +33,8 @@ th {
 .time {
   font-weight: 900;
 }
+@media only screen and (orientation: landscape) {
+  table {
+    width: 100%;
+  }
+}
